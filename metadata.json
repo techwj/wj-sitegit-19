@@ -1,0 +1,59 @@
+{
+  "siteId": "traditional-festival-foods",
+  "generatedAt": "2026-06-02T15:38:17.782626",
+  "categories": [
+    "beginner-traditional-festival-foods",
+    "advanced-traditional-festival-foods",
+    "tips-traditional-festival-foods",
+    "history-traditional-festival-foods",
+    "trending-traditional-festival-foods",
+    "tutorials-traditional-festival-foods"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-traditional-festival-foods",
+      "category_name": "Beginner Traditional Festival Foods"
+    },
+    {
+      "category_slug": "advanced-traditional-festival-foods",
+      "category_name": "Advanced Traditional Festival Foods"
+    },
+    {
+      "category_slug": "tips-traditional-festival-foods",
+      "category_name": "Traditional Festival Foods Tips"
+    },
+    {
+      "category_slug": "history-traditional-festival-foods",
+      "category_name": "Traditional Festival Foods History"
+    },
+    {
+      "category_slug": "trending-traditional-festival-foods",
+      "category_name": "Trending Traditional Festival Foods"
+    },
+    {
+      "category_slug": "tutorials-traditional-festival-foods",
+      "category_name": "Traditional Festival Foods Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "traditional-festival-foods",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Traditional Festival Foods Central",
+    "articles_per_row": 3
+  }
+}

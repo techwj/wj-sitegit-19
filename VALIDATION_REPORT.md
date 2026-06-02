@@ -1,0 +1,88 @@
+# Validation Report - traditional-festival-foods
+
+Generated: 2026-06-02T15:38:17.782489
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Traditional Festival Foods
+- ✓ Article word count OK: Beginner Traditional Festival Foods: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Traditional Festival Foods
+- ✓ Article word count OK: Beginner Traditional Festival Foods Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Traditional Festival Foods
+- ✓ Article word count OK: Beginner Traditional Festival Foods in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Traditional Festival Foods
+- ✓ Article word count OK: Common Mistakes in Beginner Traditional Festival Foods
+- ✓ Article word count OK: Beginner Traditional Festival Foods for Beginners
+- ✓ Article word count OK: Advanced Beginner Traditional Festival Foods Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Traditional Festival Foods
+- ✓ Article word count OK: Advanced Traditional Festival Foods: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Traditional Festival Foods
+- ✓ Article word count OK: Advanced Traditional Festival Foods Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Traditional Festival Foods
+- ✓ Article word count OK: Advanced Traditional Festival Foods in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Traditional Festival Foods
+- ✓ Article word count OK: Common Mistakes in Advanced Traditional Festival Foods
+- ✓ Article word count OK: Advanced Traditional Festival Foods for Beginners
+- ✓ Article word count OK: Advanced Advanced Traditional Festival Foods Techniques
+- ✓ Article word count OK: The Ultimate Guide to Traditional Festival Foods Tips
+- ✓ Article word count OK: Traditional Festival Foods Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Traditional Festival Foods Tips
+- ✓ Article word count OK: Traditional Festival Foods Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Traditional Festival Foods Tips
+- ✓ Article word count OK: Traditional Festival Foods Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Traditional Festival Foods Tips
+- ✓ Article word count OK: Common Mistakes in Traditional Festival Foods Tips
+- ✓ Article word count OK: Traditional Festival Foods Tips for Beginners
+- ✓ Article word count OK: Advanced Traditional Festival Foods Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Traditional Festival Foods History
+- ✓ Article word count OK: Traditional Festival Foods History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Traditional Festival Foods History
+- ✓ Article word count OK: Traditional Festival Foods History Tips and Best Practices
+- ✓ Article word count OK: The History of Traditional Festival Foods History
+- ✓ Article word count OK: Traditional Festival Foods History in 2026: Current Trends
+- ✓ Article word count OK: Future of Traditional Festival Foods History
+- ✓ Article word count OK: Common Mistakes in Traditional Festival Foods History
+- ✓ Article word count OK: Traditional Festival Foods History for Beginners
+- ✓ Article word count OK: Advanced Traditional Festival Foods History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Traditional Festival Foods
+- ✓ Article word count OK: Trending Traditional Festival Foods: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Traditional Festival Foods
+- ✓ Article word count OK: Trending Traditional Festival Foods Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Traditional Festival Foods
+- ✓ Article word count OK: Trending Traditional Festival Foods in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Traditional Festival Foods
+- ✓ Article word count OK: Common Mistakes in Trending Traditional Festival Foods
+- ✓ Article word count OK: Trending Traditional Festival Foods for Beginners
+- ✓ Article word count OK: Advanced Trending Traditional Festival Foods Techniques
+- ✓ Article word count OK: The Ultimate Guide to Traditional Festival Foods Tutorials
+- ✓ Article word count OK: Traditional Festival Foods Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Traditional Festival Foods Tutorials
+- ✓ Article word count OK: Traditional Festival Foods Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Traditional Festival Foods Tutorials
+- ✓ Article word count OK: Traditional Festival Foods Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Traditional Festival Foods Tutorials
+- ✓ Article word count OK: Common Mistakes in Traditional Festival Foods Tutorials
+- ✓ Article word count OK: Traditional Festival Foods Tutorials for Beginners
+- ✓ Article word count OK: Advanced Traditional Festival Foods Tutorials Techniques
+- ✓ Ad configuration validated
